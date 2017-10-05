@@ -1,0 +1,8 @@
+name: ClearChat
+version: 1.0
+description: ClearChat plugin.
+main: me.playerstatscc.ClearChat
+commands:
+   clearchat:
+     description: ClearChat.
+     aliases: [cc,clc]
